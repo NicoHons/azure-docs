@@ -26,7 +26,7 @@ With this preview, admins can configure dynamic groups with the memberOf attribu
 
 ## Prerequisites
 
-Only administrators in the Global Administrator, Intune Administrator, or User Administrator role can use the memberOf attribute to create an Azure AD dynamic group. You must have an Azure AD Premium license for the Azure AD tenant.
+Only administrators in the Global Administrator, Intune Administrator, Group Administrator, or User Administrator role can use the memberOf attribute to create an Azure AD dynamic group. You must have an Azure AD Premium license for the Azure AD tenant.
 
 ## Preview limitations
 
